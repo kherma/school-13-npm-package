@@ -1,0 +1,12 @@
+{
+  "name": "@kherma/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "kherma",
+  "keywords": [
+    "id",
+    "generator",
+    "randomid"
+  ]
+}
