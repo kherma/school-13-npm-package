@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "repository": "https://github.com/kherma/school-13-npm-package",
   "author": "kherma",
   "keywords": [
     "id",
